@@ -1,0 +1,16 @@
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.csproj.AssemblyReference.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.AssemblyInfoInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.AssemblyInfo.cs
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.exe
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.deps.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.runtimeconfig.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.runtimeconfig.dev.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\bin\Debug\net5.0\LowUpper.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\refint\LowUpper.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\LowUpper.genruntimeconfig.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\LowUpper\obj\Debug\net5.0\ref\LowUpper.dll
